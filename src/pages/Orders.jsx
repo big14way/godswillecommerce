@@ -1,3 +1,11 @@
+<<<<<<< HEAD
+import React from 'react'
+
+const Orders = () => {
+  return (
+    <div>
+        
+=======
 import React, { useContext } from 'react'
 import Title from '../components/Title';
 import { ShopContext } from '../context/ShopContext'
@@ -37,6 +45,7 @@ const Orders = () => {
         ))
       }
     </div>
+>>>>>>> 0601e29364d98b0629fb46ca063dfb012e288a37
     </div>
   )
 }
